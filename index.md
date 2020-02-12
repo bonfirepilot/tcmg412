@@ -12,6 +12,8 @@
 
 [The Ops](Ops.md)
 
+[The History](history.md)
+
 [DevOps Benefits](Benefits.md)
 
 #           Meet the Team
