@@ -21,4 +21,4 @@ The words above are echoed from the Agile Manifesto, which goes hand in hand wit
 
 [Home](index.md)
 
-**This page was created by Jared Krumy**
+**This page was created by Jared Crummey**
