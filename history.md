@@ -1,4 +1,5 @@
 **History of DevOps**
+![DevOpsHistory](https://www.bluematador.com/hs-fs/hubfs/old-assets/old-theme/Images/a-brief-history-of-devops.png?width=1441&name=a-brief-history-of-devops.png)
 
 While DevOps was thought of in early 2000's, it was finalized towards 2009 and the credit was given to by Patrick Debois. Patrick was always interested in IT from every perspective but around 2007 he noticed the differences between Development and Operations
 
