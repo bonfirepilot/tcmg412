@@ -34,7 +34,7 @@ I have a good amount of customer service experience through jobs I have had and 
 I have three years of customer service experience. I enjoy working with databases and hope to pursue a career in that area of the IT industry. I am also a Fightin' Texas Aggie Class of 2020 set to graduate in December.
 
 ### Ryan Tepera
-
+I currently work for Mays Business School for the past year. I'm also pursuing a career in IT or Cyber Security industry and plan on graduating from Texas A&M in the year 2021.
 
 
 ### Support or Contact
